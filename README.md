@@ -29,6 +29,9 @@ This app features a clean and interactive UI with smooth animations and user-fri
 * Interactive cards & buttons
 * Minimalist and responsive layout
 
+> Youtube
+https://youtu.be/TpfmXBuezA4?si=U_9miE_oZ_K1jqWe
+
 ---
 
 ## 🛠️ Tech Stack
